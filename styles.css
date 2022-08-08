@@ -1,0 +1,39 @@
+h1 , button{
+    color: indigo;
+    background-color: bisque;
+}
+
+div {
+    width: 50%;
+}
+
+ div > * {
+     margin-bottom: 30px; 
+ }
+
+
+  ol {
+   background: #99fff6;
+   padding: 5px;
+ }
+ 
+ ul {
+   background: #c233ff;
+   padding: 5px;
+ }
+ 
+ ol li {
+   background: #8b67ed;
+   color: darkred;
+   padding: 5px;
+   margin-left: 5px;
+ }
+ 
+ ul li {
+   background: #cce5ff;
+   color: darkblue;
+   margin: 5px;
+ }
+
+
+
